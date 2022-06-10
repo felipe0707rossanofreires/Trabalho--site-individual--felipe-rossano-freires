@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(207, 217, 244);
+}
+/* Configuraçao da imagem do menu navegaçao */
+#img1{
+    background-color: #1867a9;
+    padding: 25px;
+    height: 50px;
+    text-align:center;
+    height: 150px;
+}
+header{
+    background-color: #1867a9;
+    padding: 15px;
+    text-align: center;
+    height:250px;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+/* formataçao de links */
+a{
+    color: white;
+    text-decoration:none;
+}
+a:link{
+    color:white
+}
+a:hover{
+    background-color:#39f;
+    border-radius: 10px 20px;
+}
+nav{
+    margin-top: 20px;
+    text-align: center;
+}
+/* formataçao da imagem 2 */
+#img-2{
+    text-align: center;
+}
+/* formataçao dos titulos */
+#titulo{
+    color:blue;
+    font-size: 35px;
+    text-align: center;
+}
+#titulo-2{
+    color:mediumblue;
+    font-size: 30px;
+}
+#titulo-3{
+    color:mediumblue;
+    font-size: 30px;
+}
+/* formatacao das listas */
+#lista1{
+    text-align: 18px;
+}
+#titulo-4{
+    color:mediumblue;
+    font-size: 30px;
+}
+/* formataçao dos paragrafos */
+#parag-1{
+    font-size:20px;
+}
+#parag-2{
+    font-size:20px;
+}
+/* formatacaçao do footer */
+#footer{
+    width: 250px center;
+    height: 40px;
+    border: 3px solid #1867a9;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #1867a9;
+}
+/* formataçao da imagem  */
+#img-1{
+    text-align: center;
+}
+/* formataçao do main */
+main{
+    margin: 0 auto;
+    background-color:lightgray;
+    margin: 50px; ;
+    padding: 25px;
+}
+/*  formataçao da seçao 1 */
+.secao-1{
+    width: 80%;
+    background-color:lightgray;
+
+}

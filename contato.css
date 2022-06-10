@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(207, 217, 244);
+}
+/* formataçao do menu navegaçao */
+#img-1{
+    background-color: #1867a9;
+    padding: 25px;
+    text-align:center;
+    height: 250px;
+}
+#img-2{
+    text-align: center;
+}
+#header{
+    background-color:#1867a9;
+    padding:45px;
+    text-align: center;
+    height:250px;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+    
+}
+/* formataçao de links */
+a{
+    color: white;
+    text-decoration:none;
+}
+a:link{
+    color:white
+}
+a:hover{
+    background-color:#39f;
+    border-radius: 10px 20px;
+}
+nav{
+    margin-top: 20px;
+    text-align: center;
+}
+/* formataçao do formulario */
+#form-1{
+    background-color: lightgray;
+    text-align: center; 
+    margin: 1px;
+    width: 500px center;
+}
+/* footer */
+#footer{
+    width: 250px center;
+    height: 40px;
+    border: 3px solid #1867a9;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #1867a9;
+}
